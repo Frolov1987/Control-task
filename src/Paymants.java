@@ -26,7 +26,7 @@ public class Paymants {
                 break;
 
             default:
-                System.out.println("Unknown :/");
+                System.out.println("Unknown xc:/");
         }
 
     }
